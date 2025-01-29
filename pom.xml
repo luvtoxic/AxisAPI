@@ -6,10 +6,17 @@
 
     <groupId>me.luvtoxic</groupId>
     <artifactId>AxisAPI</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>AxisAPI</name>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <url>https://maven.pkg.github.com/luvtoxic/AxisAPI</url>
+        </repository>
+    </distributionManagement>
 
     <properties>
         <java.version>21</java.version>
