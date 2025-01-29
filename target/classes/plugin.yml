@@ -1,5 +1,5 @@
 name: AxisAPI
-version: '1.0.0'
+version: '0.0.1'
 main: me.luvtoxic.axisAPI.AxisAPI
 api-version: '1.21'
 author: Ammar
